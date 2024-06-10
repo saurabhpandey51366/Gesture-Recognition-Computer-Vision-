@@ -42,11 +42,11 @@ This project is part of the Software Development for Smart Glasses, developed as
    python gestureControl.py
 
 ## Usage
--- 1. Ensure your webcam is connected and functional.
--- 2. Run the application using the command above.
--- 3. The application window will display the video feed.
--- 4. Use hand gestures in front of the webcam to control the system volume.
--- 5. The recognized gestures will trigger corresponding actions, such as increasing or decreasing the volume.
+1. Ensure your webcam is connected and functional.
+2. Run the application using the command above.
+3. The application window will display the video feed.
+4. Use hand gestures in front of the webcam to control the system volume.
+5. The recognized gestures will trigger corresponding actions, such as increasing or decreasing the volume.
 
 ## Configuration
 - **Gesture Mapping:** The gesture-to-action mappings can be customized by editing the gestureControl.py file.
