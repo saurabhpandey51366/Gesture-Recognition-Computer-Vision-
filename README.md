@@ -34,10 +34,10 @@ This project is part of the Software Development for Smart Glasses, developed as
    ```sh
    git clone https://github.com/yourusername/gesture-control-cv.git
    cd gesture-control-cv
-2. **Install the required dependencies:
+2. **Install the required dependencies**:
    ```sh
    pip install opencv-python mediapipe pycaw comtypes
-3. **Run the application:
+3. **Run the application**:
    ```sh
    python gestureControl.py
 
@@ -49,8 +49,8 @@ This project is part of the Software Development for Smart Glasses, developed as
 5. The recognized gestures will trigger corresponding actions, such as increasing or decreasing the volume.
 
 ## Configuration
-- **Gesture Mapping:** The gesture-to-action mappings can be customized by editing the gestureControl.py file.
-- **Sensitivity:** Adjust the gesture recognition sensitivity by modifying parameters in the HandTackingModule.py file.
+- **Gesture Mapping**: The gesture-to-action mappings can be customized by editing the gestureControl.py file.
+- **Sensitivity**: Adjust the gesture recognition sensitivity by modifying parameters in the HandTackingModule.py file.
 
 ## Acknowledgements
 - Special thanks to the OpenCV and Mediapipe communities for their excellent libraries.
